@@ -10,10 +10,11 @@ Cybersecurity student at Air University with a strong focus on SOC (Security Ope
 
 ## Skills
 
-| Skill                 | Associated Project                                                                 |
-|-----------------------|------------------------------------------------------------------------------------|
-| Game Development      | [Python Snake Project](https://github.com/SaifJillani/Python-Snake-Project)       |
-| Port Scanning         | [PyPortScanner](https://github.com/SaifJillani/PyPortScanner)                     |
+| Skill                  | Associated Project                                                                 |
+|------------------------|------------------------------------------------------------------------------------|
+| Game Development       | [Python Snake Project](https://github.com/SaifJillani/Python-Snake-Project)       |
+| Network Security       | [PyPortScanner](https://github.com/SaifJillani/PyPortScanner)                     |
+
 
 
 
