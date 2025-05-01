@@ -47,6 +47,7 @@ I’m learning and experimenting with SIEM tools to gain expertise in centralize
 </div>
 
 ## Certifications (Planned)
+I plan to pursue the following certifications as I build more knowledge and expertise in cybersecurity and IT:
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
